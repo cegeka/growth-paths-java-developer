@@ -33,12 +33,11 @@ Hiermee bedoelen onderwerpen zoals:
 * Dependency injection
 * AOP
 * Persistence
-
-	
-	Oefeningen: Zelf spring boot opzetten met alles hierboven
-	Website: https://docs.oracle.com/javaee/7/tutorial/index.html, getting started van spring
-	Cursus: spring cursus (pivotal)
-	Boeken: Patterns of enterprise application architecture (Martin Fowler).
+		
+		Oefeningen: Zelf spring boot opzetten met alles hierboven
+		Website: https://docs.oracle.com/javaee/7/tutorial/index.html, getting started van spring
+		Cursus: spring cursus (pivotal)
+		Boeken: Patterns of enterprise application architecture (Martin Fowler).
 ### Refactoring
 	Boeken: Refactoring 1 of 2  (Martin Fowler).
 	Oefening: movierental (oefening van refactoring), kata's
