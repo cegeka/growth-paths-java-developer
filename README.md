@@ -33,7 +33,6 @@ Hiermee bedoelen onderwerpen zoals:
 * Dependency injection
 * AOP
 * Persistence
-		
 		Oefeningen: Zelf spring boot opzetten met alles hierboven
 		Website: https://docs.oracle.com/javaee/7/tutorial/index.html, getting started van spring
 		Cursus: spring cursus (pivotal)
@@ -54,9 +53,9 @@ Hiermee bedoelen onderwerpen zoals:
     Cursus : Devops
 ### Continuous integration
 ### Enterprise integration patterns
-    Boeken : 
-            [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
-            [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)
+Boeken : 
+[Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
+[Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)
 ### Design patterns
 ### Basic computer skills
 ### Basic netwerking skills
