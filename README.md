@@ -57,6 +57,7 @@ Boeken :
 [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
 [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)
 ### Design patterns
+	Boeken: Head First Design Patterns, Design Patterns (Elements of Reusable Object-Oriented Software)
 ### Basic computer skills
     weten hoe een computer werkt : cpu - ram - disk 
     kennis over hoe computerprogramma's werken
