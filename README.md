@@ -88,7 +88,7 @@ Boeken :
             [Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
 ### frontend javascript, angular
     Website : [angular tutorial](https://angular.io/tutorial)
-    Cursus : Javascript - Basic + advanced
+    Cursus : Javascript - Basic + advanced, Angular 6 Master Class
 ### Basic database understanding
 Hiermee bedoelen we onderwerpen zoals:
 - SQL
@@ -98,6 +98,7 @@ Hiermee bedoelen we onderwerpen zoals:
 - ACID/BASE
 ### Spring
 ### Visualisatie
+	Cursus: Visualisation for Beginners
 ### Design uitwerken voor een probleem op te lossen
 ### Basic architectural skills
 Hiermee bedoelen we onderwerpen zoals:
@@ -114,7 +115,10 @@ Hiermee bedoelen we onderwerpen zoals:
 	Externe cursus: www.imboorling.be
 
 ## Soft Skills
+### Agile
+	Cursus: Agile Introduction
 ### Feedback geven
+	Sessie die gegeven is tijdens Java Guild Meeting?
 ### Feedback accepteren
 ### Kritische geest
 ### Courage
