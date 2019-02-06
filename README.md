@@ -58,8 +58,30 @@ Boeken :
 [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)
 ### Design patterns
 ### Basic computer skills
+    weten hoe een computer werkt : cpu - ram - disk 
+    kennis over hoe computerprogramma's werken
+    https://gist.github.com/jboner/2841832
 ### Basic netwerking skills
+    basiskennis layered networking (TCP/IP)
+    in staat zijn te troubleshooten bij netwerkproblemen
+    tcp handshaking procedure
+    application protocols : http, ftp, 
+    netwerking tools kunnen gebruiken : ssh, telnet, ss, netstat, ping, nslookup, ...
 ### Basic os skills
+    user mgt
+        useradd
+        usermod
+    network mgt
+        zie basic netwerking skills
+    process mgt
+        ps
+        (n)top
+        jobs
+        kill
+    basic tooling
+        bash / zsh
+        vi
+    troubleshooting
 ### REST
     Boeken : 
             [Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
