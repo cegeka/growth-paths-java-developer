@@ -55,17 +55,17 @@ Hiermee bedoelen onderwerpen zoals:
 ### Continuous integration
 ### Enterprise integration patterns
     Boeken : 
-            Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf - [https://www.enterpriseintegrationpatterns.com/](https://www.enterpriseintegrationpatterns.com/)
-            Camel in action - Claus Ibsen Jonathan Anstey - [https://www.manning.com/books/camel-in-action-second-edition](https://www.manning.com/books/camel-in-action-second-edition)
+            [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
+            [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)
 ### Design patterns
 ### Basic computer skills
 ### Basic netwerking skills
 ### Basic os skills
 ### REST
     Boeken : 
-            Rest in Practice - Jim Webber - [http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
+            [Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
 ### frontend javascript, angular
-    Website : [https://angular.io/tutorial](https://angular.io/tutorial)
+    Website : [angular tutorial](https://angular.io/tutorial)
     Cursus : Javascript - Basic + advanced
 ### Basic database understanding
 Hiermee bedoelen we onderwerpen zoals:
