@@ -44,9 +44,10 @@ Hiermee bedoelen onderwerpen zoals:
 ### Clean code
 	Boeken: clean code, Code complete, pragmatic programmer, extreme programming explained
 ### DDD
-	Boeken: Blauwe boek, DDD quickly, Rode boek, DDD distilled; Patterns, principles and practices of DDD; CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
+	Boeken: Blauwe boek, DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly), Rode boek, DDD distilled; Patterns, principles and practices of DDD; CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
 	Conference: DDDEU
 	Workshops: georganiseerd door DDDEU (zie hun website)
+	Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design
 ### Continuous delivery
 	Boeken: Continuous delivery, Phoenix Project, Release it!
 	Conference: Devops summit
