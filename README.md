@@ -46,7 +46,7 @@ Hiermee bedoelen onderwerpen zoals:
 ### DDD
 	Boeken: Blauwe boek, DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly), Rode boek, DDD distilled; Patterns, principles and practices of DDD; CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
 	Conference: DDDEU
-	Workshops: georganiseerd door DDDEU (zie hun website)
+	Workshops: georganiseerd door DDDEU (zie hun website), Greg Young's workshop
 	Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design
 ### Continuous delivery
 	Boeken: Continuous delivery, Phoenix Project, Release it!
@@ -117,7 +117,8 @@ Hiermee bedoelen we onderwerpen zoals:
       Exercise: set up a client and a server and set up a secure connection between them + make it fail 
 - architectural patterns
 - gedistribueerde systemen
-
+### Functional programming
+    Exercise: Scalatron
 ### Planning
 ### Gestructureerd werken
 ### Abstraheren
