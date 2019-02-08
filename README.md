@@ -5,32 +5,34 @@
 - Moeilijkheidsgraad toevoegen (basic of advanced)
 - Voorstellen in gilde meeting
 
-# Doel van dit document
-Developers helpen te groeien, door:
-- duidelijk te maken welke vaardigheden we verwachten van een developer
-- materiaal aan te bieden dat kan helpen deze vaardigheden te verbeteren
+# Goal of this document
+Helping java developers grow by:
+- making clear which skills we expect from developers
+- giving them tools them can help them improve these skills
 
-# Vaardigheden en hoe ze te verbeteren
-## Algemeen
- Cegeka heeft een licentie van [**pluralsight**](https://www.pluralsight.com/) een onlineplatform met videocursussen.
- 
- Als je in iets wil bijleren kan je altijd daar kijken.
+# Skills & Tools
+## General
+Cegeka has a license for [**pluralsight**](https://www.pluralsight.com/). Pluralsight is a web platform for online video courses.
+Most things listed here can be found on pluralsight.
 ## Hard skills
 ### TDD
-    Oefeningen: Code kata's doen (website, sessie), game of life, TDD as if you meant it
-    Boeken: TDD (Kent Beck)
-    Cursus: Agile Software Engineering
-### Java architectuur
-	Oefeningen: Maak een memory leak en hang er een profiler aan.
-	Website: Java memory architectuur online opzoeken
-	Boeken: Effective java
-	Conferentie: Devoxx
-	Video's: Devoxx talks
+    Exercise: Do code kata's (website, sessions, meetups)
+    Exercise: Game of life
+    Exercise: TDD as if you meant it
+    Book: TDD (Kent Beck)
+    Course: Agile Software Engineering
+### Java architecture
+	Exercise: Create a memory leak and inspect with a profiler.
+	Website: Lookup java memory architecture online
+	Book: Effective java
+	Conference: Devoxx
+	Video: Devoxx talks
 ### Java api
-	Website: Code wars, api reference website
-	Boeken: Effective java
+	Website: Code wars
+	Website: Api reference website
+	Book: Effective java
 ### Enterprise application
-Hiermee bedoelen onderwerpen zoals:
+This includes
 * Transactionaliteit 
 * Security
 * Messaging
@@ -38,58 +40,68 @@ Hiermee bedoelen onderwerpen zoals:
 * Dependency injection
 * AOP
 * Persistence
-    >Oefeningen: Zelf spring boot opzetten met alles hierboven  
-    Website: https://docs.oracle.com/javaee/7/tutorial/index.html, getting started van spring  
-    Cursus: spring cursus (pivotal)  
-    Boeken: Patterns of enterprise application architecture (Martin Fowler).
+    >Exercise: Create your own full stack spring boot application  
+    Website: https://docs.oracle.com/javaee/7/tutorial/index.html
+    Website: getting started Spring  
+    Course: spring cursus (pivotal)  
+    Book: Patterns of enterprise application architecture (Martin Fowler).
 ### Refactoring
-	Boeken: Refactoring 1 of 2  (Martin Fowler).
-	Oefening: movierental (oefening van refactoring), kata's
-	Cursus: Agile software engineering
+	Book: Refactoring 1 of 2  (Martin Fowler).
+	Exercise: movierental (refactoring exercise), kata's
+	Course: Agile software engineering
+	Website: https://refactoring.guru/
 ### Clean code
-	Boeken: clean code, Code complete, pragmatic programmer, extreme programming explained
+	Book: clean code
+	Book: Code complete
+	Book: pragmatic programmer, extreme programming explained
 ### DDD
-	Boeken: Blauwe boek, DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly), Rode boek, DDD distilled; Patterns, principles and practices of DDD; CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
+	Book: Blue book
+	Book: DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly)
+	Book: Red book
+	Book: DDD distilled 
+	Book: Patterns, principles and practices of DDD
+	Book: CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
 	Conference: DDDEU
-	Workshops: georganiseerd door DDDEU (zie hun website), Greg Young's workshop
+	Workshop: DDDEU workshop (see https://training.dddeurope.com/) 
+	Workshop: Greg Young's workshop
 	(to validate) Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design
 ### Continuous delivery
-	Boeken: Continuous delivery, Phoenix Project, Release it!
+	Book: Continuous delivery, Phoenix Project, Release it!
 	Conference: Devops summit
-    Cursus : Devops (internal)
+    Course : Devops (internal)
     Book: The site reliability
 ### Continuous integration
-    Oefening: Zelf een jenkins opzetten
-    Opzoeken: (wim zoekt het op)
-    Boeken: Continuous delivery
+    Exercise: Installing your own jenkins
+    Research: (wim zoekt het op)
+    Book: Continuous delivery
 ### Enterprise integration patterns
->Boeken : 
+>Book : 
 [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
 [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  
 >Website : https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 >Website : https://spring.io/projects/spring-integration
 
 ### Design patterns
-	Boeken: Head First Design Patterns, Design Patterns (Elements of Reusable Object-Oriented Software)
+	Book: Head First Design Patterns, Design Patterns (Elements of Reusable Object-Oriented Software)
 	Website: https://refactoring.guru/design-patterns/catalog
 ### Basic computer skills
-    Weten hoe een computer werkt : cpu - ram - disk 
-    kennis over hoe computerprogramma's werken
+    Knowledge on how a computer functions: cpu - ram - disk
+    Knowledge how programs work
     Website: https://gist.github.com/jboner/2841832
     Presentatie: ???cegeka school???
 ### Basic netwerking skills
-    basiskennis layered networking (TCP/IP)
-    in staat zijn te troubleshooten bij netwerkproblemen
+    basic knowledge on layered networking (TCP/IP)
+    troubleshooting network problems
     tcp handshaking procedure
     application protocols : http, https, ftp
-    netwerking tools kunnen gebruiken : ssh, telnet, ss, netstat, ping, nslookup, ...
+    using networking tools : ssh, telnet, ss, netstat, ping, nslookup, ...
 ### Security
     - How do public/private keys work
     - Working with certificates
     - How does an ssl handshake work
         > Website: Search for explanations online, there's enough  
     - How do I setup basic user authentication on my REST API's
-    > Cursus: Security essentials for java developers (internal)  
+    > Course: Security essentials for java developers (internal)  
       Exercise: set up a client and a server and set up a secure connection between them + make it fail with own Certificate authority
       Exercise: https://gist.github.com/Soarez/9688998
       Book: Computer networks Tanenbaum
@@ -98,7 +110,7 @@ Hiermee bedoelen onderwerpen zoals:
         useradd
         usermod
     network mgt
-        zie basic netwerking skills
+        see basic netwerking skills
     process mgt
         ps
         (n)top
@@ -112,31 +124,31 @@ Hiermee bedoelen onderwerpen zoals:
     >Website: https://linuxjourney.com/
     >man bash
 ### REST
-    Boeken:[Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
+    Book:[Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
 ### frontend javascript, angular
     Website : [angular tutorial](https://angular.io/tutorial)
-    Cursus : Javascript - Basic + advanced (internal), Angular 6 Master Class (external Thoughtram)
+    Course : Javascript - Basic + advanced (internal), Angular 6 Master Class (external Thoughtram)
 ### Basic database understanding
-Hiermee bedoelen we onderwerpen zoals:
+By which we mean:
 - SQL
 - NOSQL
 - JDBC
 - JPA
 - ACID/BASE
-    >Oefening: Zet sample applicatie op
+    >Exercise: Zet sample applicatie op
 ### Spring
->Oefening: Zelf applicatie opzetten
-Boeken: Spring in action
+>Exercise: Zelf applicatie opzetten
+Book: Spring in action
 ### Visualisatie
-	Cursus: Visualisation for Beginners (internal)
+	Course: Visualisation for Beginners (internal)
 	Learn about UML
 ### Design uitwerken voor een probleem op te lossen
     On the job
 ### Basic architectural skills
-Hiermee bedoelen we onderwerpen zoals:
+By which we mean:
 - C4 
 - architectural patterns
-- gedistribueerde systemen
+- distributed systems
     >Book: Software architecture for developers (Simon Brown)
     >Book: Beautiful architecture
     >Book: Building microservices
@@ -145,8 +157,8 @@ Hiermee bedoelen we onderwerpen zoals:
     Exercise: Scalatron
     Book: Structure and Interpretation of computer programs
 ### Planning
-### Gestructureerd werken
-### Abstraheren
+### Working in a structured way
+### Being able to work in different abstraction levels
     See DDD
 ### Debugging skills
 Understanding tooling, Remote debug, ...
@@ -155,20 +167,21 @@ Understanding tooling, Remote debug, ...
 	Book: Presentation Zen
 ## Soft Skills
 ### Agile
-	Cursus: Agile Introduction (internal)
-### Feedback geven
-    Oefening: feedback kata (internal) *nog beschikbaar stellen*
-### Feedback accepteren
+	Course: Agile Introduction (internal)
+### Giving feedback
+    Exercise: feedback kata (internal) *needs to be made available*
+### Accepting feedback
     Exercises: Feedback exercise sessions (coach retreat?)
-### Kritische geest
+### Having critical thoughts
 ### Courage
     Book: Feel the fear and do it anyway
-### Contextuele communicatie (uitleg aanpassen aan uw doelpubliek, aan uw doel)
-Taal aanpassen aan kennis van doel bijvoorbeeld geen stacktrace uitleggen aan klant
-Taal aanpassen aan persoon van doel
-    Cursus: Insights discovery
-    Cursus: Communicatie met impactie (extern)
-### Ownership nemen
+### Contextual communication (adapting communication depending on who your talking to)
+Communicating to someone with different knowledge, e.g. explaining a stacktrace to a customer
+Adapting communication depending on the person you are talking to.
+
+    Course: Insights discovery
+    Course: Communicatie met impactie (extern)
+### Taking Ownership
     The responsibility process: https://www.christopheravery.com/responsibility-process
     Getting things done: https://gettingthingsdone.com/
     Book: Change your questions change your life
