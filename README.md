@@ -75,11 +75,10 @@ This includes
     Research: (wim will look it up)
     Book: Continuous delivery
 ### Enterprise integration patterns
->Book : 
-[Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
-[Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  
->Website : https://www.enterpriseintegrationpatterns.com/patterns/messaging/
->Website : https://spring.io/projects/spring-integration
+    Book : [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
+    Book : [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  
+    Website : https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+    Website : https://spring.io/projects/spring-integration
 
 ### Design patterns
 	Book: Head First Design Patterns, Design Patterns (Elements of Reusable Object-Oriented Software)
@@ -96,15 +95,15 @@ This includes
     application protocols : http, https, ftp
     using networking tools : ssh, telnet, ss, netstat, ping, nslookup, ...
 ### Security
-    - How do public/private keys work
-    - Working with certificates
-    - How does an ssl handshake work
-        > Website: Search for explanations online, there's enough  
-    - How do I setup basic user authentication on my REST API's
-    > Course: Security essentials for java developers (internal)  
-      Exercise: set up a client and a server and set up a secure connection between them + make it fail with own Certificate authority
-      Exercise: https://gist.github.com/Soarez/9688998
-      Book: Computer networks Tanenbaum
+- How do public/private keys work
+- Working with certificates
+- How does an ssl handshake work
+    > Website: Search for explanations online, there's enough  
+- How do I setup basic user authentication on my REST API's
+    >Course: Security essentials for java developers (internal)  
+    Exercise: set up a client and a server and set up a secure connection between them + make it fail with own Certificate authority
+    Exercise: https://gist.github.com/Soarez/9688998
+    Book: Computer networks Tanenbaum
 ### Basic os skills
     user mgt
         useradd
