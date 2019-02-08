@@ -33,10 +33,10 @@ Hiermee bedoelen onderwerpen zoals:
 * Dependency injection
 * AOP
 * Persistence
-		Oefeningen: Zelf spring boot opzetten met alles hierboven
-		Website: https://docs.oracle.com/javaee/7/tutorial/index.html, getting started van spring
-		Cursus: spring cursus (pivotal)
-		Boeken: Patterns of enterprise application architecture (Martin Fowler).
+    >Oefeningen: Zelf spring boot opzetten met alles hierboven  
+    Website: https://docs.oracle.com/javaee/7/tutorial/index.html, getting started van spring  
+    Cursus: spring cursus (pivotal)  
+    Boeken: Patterns of enterprise application architecture (Martin Fowler).
 ### Refactoring
 	Boeken: Refactoring 1 of 2  (Martin Fowler).
 	Oefening: movierental (oefening van refactoring), kata's
@@ -51,12 +51,15 @@ Hiermee bedoelen onderwerpen zoals:
 ### Continuous delivery
 	Boeken: Continuous delivery, Phoenix Project, Release it!
 	Conference: Devops summit
-    Cursus : Devops
+    Cursus : Devops (internal)
 ### Continuous integration
+    Boeken: Continuous delivery
 ### Enterprise integration patterns
-Boeken : 
+>Boeken : 
 [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
-[Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)
+[Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  
+>Website : https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+
 ### Design patterns
 	Boeken: Head First Design Patterns, Design Patterns (Elements of Reusable Object-Oriented Software)
 ### Basic computer skills
@@ -67,7 +70,7 @@ Boeken :
     basiskennis layered networking (TCP/IP)
     in staat zijn te troubleshooten bij netwerkproblemen
     tcp handshaking procedure
-    application protocols : http, ftp, 
+    application protocols : http, https, ftp
     netwerking tools kunnen gebruiken : ssh, telnet, ss, netstat, ping, nslookup, ...
 ### Basic os skills
     user mgt
@@ -89,7 +92,7 @@ Boeken :
             [Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do)
 ### frontend javascript, angular
     Website : [angular tutorial](https://angular.io/tutorial)
-    Cursus : Javascript - Basic + advanced, Angular 6 Master Class
+    Cursus : Javascript - Basic + advanced (internal), Angular 6 Master Class
 ### Basic database understanding
 Hiermee bedoelen we onderwerpen zoals:
 - SQL
@@ -105,6 +108,13 @@ Hiermee bedoelen we onderwerpen zoals:
 Hiermee bedoelen we onderwerpen zoals:
 - C4
 - Security
+    - How do public/private keys work
+    - Working with certificates
+    - How does an ssl handshake work
+        > Website: Search for explanations online, there's enough  
+    - How do I setup basic user authentication on my REST API's
+    > Cursus: Security essentials for java developers (internal)  
+      Exercise: set up a client and a server and set up a secure connection between them + make it fail 
 - architectural patterns
 - gedistribueerde systemen
 
@@ -121,7 +131,10 @@ Hiermee bedoelen we onderwerpen zoals:
 ### Feedback geven
 	Sessie die gegeven is tijdens Java Guild Meeting?
 ### Feedback accepteren
+    Exercises: Feedback exercise sessions (coach retreat?)
 ### Kritische geest
 ### Courage
 ### Contextuele communicatie (uitleg aanpassen aan uw doelpubliek, aan uw doel)
 ### Ownership nemen
+    The responsibility process: https://www.christopheravery.com/responsibility-process
+    Getting things done: https://gettingthingsdone.com/
