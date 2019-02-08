@@ -72,6 +72,7 @@ Hiermee bedoelen onderwerpen zoals:
     tcp handshaking procedure
     application protocols : http, https, ftp
     netwerking tools kunnen gebruiken : ssh, telnet, ss, netstat, ping, nslookup, ...
+    Boeken: dat boek dat we kregen op de KUL 
 ### Basic os skills
     user mgt
         useradd
@@ -120,10 +121,12 @@ Hiermee bedoelen we onderwerpen zoals:
 
 ### Planning
 ### Gestructureerd werken
+    Boeken: Getting results the agile way
 ### Abstraheren
 ### Debugging skills
 ### Presentation skills
 	Externe cursus: www.imboorling.be
+	Boeken: presentation zen
 
 ## Soft Skills
 ### Agile
@@ -134,7 +137,10 @@ Hiermee bedoelen we onderwerpen zoals:
     Exercises: Feedback exercise sessions (coach retreat?)
 ### Kritische geest
 ### Courage
+    Boeken: Feel The Fear And Do It Anyway 
 ### Contextuele communicatie (uitleg aanpassen aan uw doelpubliek, aan uw doel)
+    Cursus: Insights discovery, Communicatie met impact
 ### Ownership nemen
     The responsibility process: https://www.christopheravery.com/responsibility-process
     Getting things done: https://gettingthingsdone.com/
+    Boeken: Change your questions change your life 
