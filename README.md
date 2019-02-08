@@ -182,7 +182,7 @@ Adapting communication depending on the person you are talking to.
     Course: Insights discovery
     Course: Communicatie met impactie (extern)
 ### Taking Ownership
-    The responsibility process: https://www.christopheravery.com/responsibility-process
-    Getting things done: https://gettingthingsdone.com/
+    Website: The responsibility process: https://www.christopheravery.com/responsibility-process
+    Website: Getting things done: https://gettingthingsdone.com/
     Book: Change your questions change your life
     Book: Turn the ship around
