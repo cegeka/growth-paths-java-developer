@@ -1,9 +1,9 @@
 #TODO
-- Naar het engels vertalen
+- Translating to english
 - Layout
-- Omschrijving bij elk hoofdstuk
-- Moeilijkheidsgraad toevoegen (basic of advanced)
-- Voorstellen in gilde meeting
+- Description for each chapter
+- Give every tool a difficulty rating (basic of advanced)
+- Present this page to the java guild
 
 # Goal of this document
 Helping java developers grow by:
@@ -33,7 +33,7 @@ Most things listed here can be found on pluralsight.
 	Book: Effective java
 ### Enterprise application
 This includes
-* Transactionaliteit 
+* Transactionality 
 * Security
 * Messaging
 * Web tier
@@ -72,7 +72,7 @@ This includes
     Book: The site reliability
 ### Continuous integration
     Exercise: Installing your own jenkins
-    Research: (wim zoekt het op)
+    Research: (wim will look it up)
     Book: Continuous delivery
 ### Enterprise integration patterns
 >Book : 
@@ -135,9 +135,9 @@ By which we mean:
 - JDBC
 - JPA
 - ACID/BASE
-    >Exercise: Zet sample applicatie op
+    >Exercise: Create your own full stack application
 ### Spring
->Exercise: Zelf applicatie opzetten
+>Exercise: Create your own application
 Book: Spring in action
 ### Visualisatie
 	Course: Visualisation for Beginners (internal)
