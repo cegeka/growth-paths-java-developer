@@ -223,7 +223,7 @@ Course: Agile Introduction (internal)
 ```
 ### Giving feedback
 ```
-Exercise: feedback kata (internal) *needs to be made available*
+Exercise: feedback kata (internal) (https://github.com/cegeka/feedback-exercise)
 ```
 ### Accepting feedback
 ```
