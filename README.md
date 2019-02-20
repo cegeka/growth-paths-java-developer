@@ -248,3 +248,7 @@ Website: Getting things done: https://gettingthingsdone.com/
 Book: Change your questions change your life
 Book: Turn the ship around
 ```
+### Leadership
+```
+Conference: Lead Dev
+```
