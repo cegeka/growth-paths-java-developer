@@ -89,10 +89,10 @@ Book: pragmatic programmer, extreme programming explained |basic|
 ### DDD |advanced|
 > Rationale : When tackling a complex business domain, it can be beneficial to use the techniques of Domain driven design. This adds a cost to development but the gains are massive for every developer. DDD gives a set of patterns and techniques on different abstraction levels for tackling (business) complexity in the heart of software. 
 ```
-Book: Blue book
+Book: Blue book (https://www.amazon.com/dp/0321125215)
 Book: DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly)
-Book: Red book
-Book: DDD distilled
+Book: Red book (https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+Book: Green book (https://www.amazon.com/dp/0134434420/)
 Book: Patterns, principles and practices of DDD
 Book: CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
 Conference: DDDEU
