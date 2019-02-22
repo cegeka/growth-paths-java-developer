@@ -87,24 +87,24 @@ Workshop: Greg Young's workshop
 (to validate) Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design
 ```
 ### Devops
-> Rationale : TODO
+> Rationale : When you want to run and operate rapidly-changing systems at scale, you need a cross-disciplanary community. This community uses a set of practices that promote systems-thinking (global vs local optimization), fast feedback and a culture of continual experimentation and learning.
 ```
 Book: Continuous delivery
 Book: Phoenix Project
 Book: Release it!
 Conference: Devops summit
 Course : Devops (internal)
-Book: The site reliability
+Book: The site reliability TODO : add link
 ```
 ### Continuous integration
-> Rationale : If it hurts do it more often. Practice continuous integration to make integrations smoother. When we try to avoid difficulties we face increasing complexity. The complexity reduces if we do difficult tasks often
+> Rationale : TODO : something about short feedbackcycles If it hurts do it more often. Practice continuous integration to make integrations smoother. When we try to avoid difficulties we face increasing complexity. The complexity reduces if we do difficult tasks often
 ```
 Exercise: Installing your own jenkins
-Research: (wim will look it up)
+Research: (wim will look it up TODO : different ci-models with git, gitflow...) 
 Book: Continuous delivery
 ```
 ### Enterprise integration patterns
-> Rationale : TODO 
+> Rationale :  
 ```
 Book : [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/)
 Book : [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  
