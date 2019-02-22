@@ -73,7 +73,7 @@ Book: Code complete
 Book: pragmatic programmer, extreme programming explained
 ```
 ### DDD
-> Rationale :  
+> Rationale : When tackling a complex business domain, it can be beneficial to use the techniques of Domain driven design. This adds a cost to development but the gains are massive for every developer. DDD gives a set of patterns and techniques on different abstraction levels for tackling (business) complexity in the heart of software. 
 ```
 Book: Blue book
 Book: DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly)
@@ -86,8 +86,8 @@ Workshop: DDDEU workshop (see https://training.dddeurope.com/)
 Workshop: Greg Young's workshop
 (to validate) Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design
 ```
-### Continuous delivery
-> Rationale : TODO 
+### Devops
+> Rationale : TODO
 ```
 Book: Continuous delivery
 Book: Phoenix Project
@@ -97,7 +97,7 @@ Course : Devops (internal)
 Book: The site reliability
 ```
 ### Continuous integration
-> Rationale : TODO 
+> Rationale : If it hurts do it more often. Practice continuous integration to make integrations smoother. When we try to avoid difficulties we face increasing complexity. The complexity reduces if we do difficult tasks often
 ```
 Exercise: Installing your own jenkins
 Research: (wim will look it up)
