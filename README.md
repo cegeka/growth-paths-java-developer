@@ -1,9 +1,8 @@
 #TODO
-- Translating to english
-- Layout
-- Description for each chapter
-- Give every tool a difficulty rating (basic of advanced)
+- Rationale for each chapter
 - Present this page to the java guild
+- To people managers
+- Table of contents
 
 # Goal of this document
 Helping java developers grow by:
@@ -25,23 +24,36 @@ Book: TDD (Kent Beck) |basic|
 Course: Agile Software Engineering |basic|
 ```
 
-### Java architecture
+### Build tools
+> Rationale : TODO
+- Dependency management
+- Building artifacts
+- Running tests
+- Classpath management
+- Automation
+```
+Course: Devops (internal) |advanced|
+Tool: Gradle |basic|
+```
+
+### Java architecture |advanced|
 > Rationale : Knowing how java gets executed and behaves at runtime helps a developer to design better applications. What are the problems you run into when doing too much recursion ? How can you solve garbage collection performance problems ?
 ```
-Exercise: Create a memory leak and inspect with a profiler. |basic|
-Website: Lookup java memory architecture online |basic|
-Book: Effective java --> TODO : not really java-architecture book |basic|
-Conference: Devoxx |basic|
-Video: Devoxx talks |basic|
+Exercise: Create a memory leak and inspect with a profiler.
+Website: Lookup java memory architecture online
+Conference: Devoxx
+Video: Devoxx talks
 ```
 ### Java api
-> Rationale : This is the first level on top of the syntax and the grammar of java. Suppose you're learning a new speaking language (e.g. spanish) you won't be proficient by learning only the grammar, you have to learn common words, common language structure. The java api is the equivalent of this : to become an efficient developer you have to study and exercise on the java api.
+> Rationale : This is the first layer on top of the syntax and the grammar of java. Suppose you're learning a new speaking language (e.g. spanish) you won't be proficient by learning only the grammar, you have to learn common words, common language structures. The java api is the equivalent of this : to become an efficient developer you have to study and exercise on the java api.
 ```
 Website: Code wars |basic|
 Website: Api reference website |basic|
 Book: Effective java |basic|
 ```
 ### Enterprise application
+> Rationale: TODO
+
 This includes
 * Transactionality 
 * Security
@@ -51,19 +63,21 @@ This includes
 * AOP
 * Persistence
 ```
-Exercise: Create your own full stack spring boot application  |advanced?|
+Exercise: Create your own full stack spring boot application  |advanced|
 Website: https://docs.oracle.com/javaee/7/tutorial/index.html |basic|
 Website: getting started Spring |basic|
-Course: spring cursus (pivotal) |basic| 
+Course: spring course (pivotal) |basic| 
 Book: Patterns of enterprise application architecture (Martin Fowler). |advanced|
 ```
 ### Refactoring
-> Rationale : When writing software for complex business problems, you can assume that your model of the business won't be correct the first time. With refactoring you get a set of techniques and patterns, to redesign your model safely and more efficiently.  
+> Rationale : When writing software for complex business problems, you can assume that your model of the business won't be correct the first time. With refactoring you get a set of techniques and patterns to redesign your model safely and more efficiently.  
 ```
-Book: Refactoring 1 of 2  (Martin Fowler). |basic|
+Book: Refactoring (Martin Fowler). |basic|
+Book: Your code as a crime scene |basic|
 Exercise: movierental (refactoring exercise), kata's |basic|
 Course: Agile software engineering |basic|
 Website: https://refactoring.guru/ |basic|
+Tool: IDE (refactorings/shortcuts)
 ```
 ### Clean code
 > Rationale : This is all about clear communication, again writing software that is read and modified by a lot of people over a period of many years requires the need for clear communication. Clean code gives good practices to ensure that code is well written and easier to maintain and understand. 
@@ -72,19 +86,19 @@ Book: clean code |basic|
 Book: Code complete |basic|
 Book: pragmatic programmer, extreme programming explained |basic|
 ```
-### DDD
+### DDD |advanced|
 > Rationale : When tackling a complex business domain, it can be beneficial to use the techniques of Domain driven design. This adds a cost to development but the gains are massive for every developer. DDD gives a set of patterns and techniques on different abstraction levels for tackling (business) complexity in the heart of software. 
 ```
-Book: Blue book |advanced|
-Book: DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly) |advanced|
-Book: Red book |advanced|
-Book: DDD distilled |advanced|
-Book: Patterns, principles and practices of DDD |advanced|
-Book: CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)) |advanced|
-Conference: DDDEU |advanced|
-Workshop: DDDEU workshop (see https://training.dddeurope.com/)  |advanced|
-Workshop: Greg Young's workshop |advanced|
-(to validate) Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design |advanced?|
+Book: Blue book
+Book: DDD quickly (https://www.infoq.com/minibooks/domain-driven-design-quickly)
+Book: Red book
+Book: DDD distilled
+Book: Patterns, principles and practices of DDD
+Book: CQRS journey guide (https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
+Conference: DDDEU
+Workshop: DDDEU workshop (see https://training.dddeurope.com/) 
+Workshop: Greg Young's workshop
+(to validate) Pluralsight path: https://www.pluralsight.com/paths/domain-driven-design
 ```
 ### Devops
 > Rationale : When you want to run and operate rapidly-changing systems at scale, you need a cross-disciplanary community. This community uses a set of practices that promote systems-thinking (global vs local optimization), fast feedback and a culture of continual experimentation and learning.
@@ -94,7 +108,8 @@ Book: Phoenix Project |basic|
 Book: Release it! |advanced|
 Conference: Devops summit |?|
 Course : Devops (internal) |advanced|
-Book: The site reliability |?| : TODO add link to online book
+Book: The site reliability |?|
+Tool: Docker
 ```
 ### Continuous integration
 > Rationale : TODO : something about short feedbackcycles If it hurts do it more often. Practice continuous integration to make integrations smoother. When we try to avoid difficulties we face increasing complexity. The complexity reduces if we do difficult tasks often
@@ -102,9 +117,11 @@ Book: The site reliability |?| : TODO add link to online book
 Exercise: Installing your own jenkins |basic|
 Research: (wim will look it up : TODO : different ci-models with git eg gitflow) 
 Book: Continuous delivery |advanced|
+Tool: Git
+Tool: Jenkins
 ```
 ### Enterprise integration patterns
-> Rationale :  
+> Rationale : TODO 
 ```
 Book : [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/) |advanced|
 Book : [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  |advanced|
