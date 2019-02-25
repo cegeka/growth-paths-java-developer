@@ -1,4 +1,4 @@
-#TODO
+# TODO
 - Rationale for each chapter
 - Present this page to the java guild
 - To people managers
