@@ -1,8 +1,55 @@
-# TODO
+# Table of contents
+- [TODO <a name="TODO"></a>](#todo--a-name--todo----a-)
+- [Goal of this document](#goal-of-this-document)
+- [Skills & Tools](#skills---tools)
+  * [General](#general)
+  * [Hard skills](#hard-skills)
+    + [TDD](#tdd)
+    + [Build tools](#build-tools)
+    + [Java architecture |advanced|](#java-architecture--advanced-)
+    + [Java api](#java-api)
+    + [Enterprise application](#enterprise-application)
+    + [Refactoring](#refactoring)
+    + [Clean code](#clean-code)
+    + [DDD |advanced|](#ddd--advanced-)
+    + [Devops](#devops)
+    + [Continuous integration](#continuous-integration)
+    + [Enterprise integration patterns](#enterprise-integration-patterns)
+    + [Design patterns](#design-patterns)
+    + [Basic computer skills](#basic-computer-skills)
+    + [Basic netwerking skills](#basic-netwerking-skills)
+    + [Security](#security)
+    + [Basic os skills](#basic-os-skills)
+    + [REST](#rest)
+    + [frontend javascript, angular](#frontend-javascript--angular)
+    + [Basic database understanding](#basic-database-understanding)
+    + [Spring](#spring)
+    + [Visualisatie](#visualisatie)
+    + [Design uitwerken voor een probleem op te lossen](#design-uitwerken-voor-een-probleem-op-te-lossen)
+    + [Basic architectural skills](#basic-architectural-skills)
+    + [Functional programming](#functional-programming)
+    + [Planning](#planning)
+    + [Working in a structured way](#working-in-a-structured-way)
+    + [Being able to work in different abstraction levels](#being-able-to-work-in-different-abstraction-levels)
+    + [Debugging skills](#debugging-skills)
+    + [Presentation skills](#presentation-skills)
+  * [Soft Skills](#soft-skills)
+    + [Agile](#agile)
+    + [Giving feedback](#giving-feedback)
+    + [Accepting feedback](#accepting-feedback)
+    + [Critical thinking](#critical-thinking)
+    + [Courage](#courage)
+    + [Contextual communication (adapting communication depending on who your talking to)](#contextual-communication--adapting-communication-depending-on-who-your-talking-to-)
+    + [Taking Ownership](#taking-ownership)
+    + [Leadership](#leadership)
+
+# TODO <a name="TODO"></a>
 - Rationale for each chapter
 - Present this page to the java guild
 - To people managers
 - Table of contents
+- PDF op portal zetten
+- Mindmap maken van deze pagina
 
 # Goal of this document
 Helping java developers grow by:
