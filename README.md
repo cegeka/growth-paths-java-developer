@@ -72,7 +72,7 @@ Course: Agile Software Engineering |basic|
 ```
 
 ### Build tools
-> Rationale : TODO
+> Rationale : With todays complexity of software, building software by hand is almost impossible. Build tools help building your artifacts easier. Since continuous delivery and continuous deployment give you fast feedback, you depend daily several times on the build tools. Investing in knowledge buildup is a necessity to become a proficient developer.
 - Dependency management
 - Building artifacts
 - Running tests
@@ -99,7 +99,7 @@ Website: Api reference website |basic|
 Book: Effective java |basic|
 ```
 ### Enterprise application
-> Rationale: TODO
+> Rationale: Typical cross-cutting concerns like transactionality and security are (almost) always necessary when writing software for a customer. 
 
 This includes
 * Transactionality 
@@ -159,10 +159,14 @@ Book: The site reliability |?|
 Tool: Docker
 ```
 ### Continuous integration
-> Rationale : TODO : something about short feedbackcycles If it hurts do it more often. Practice continuous integration to make integrations smoother. When we try to avoid difficulties we face increasing complexity. The complexity reduces if we do difficult tasks often
+> Rationale : When building software in a team, you will want short feedback cycles. Maybe your changes are breaking with some other colleague's changes.  
 ```
 Exercise: Installing your own jenkins |basic|
-Research: (wim will look it up : TODO : different ci-models with git eg gitflow) 
+Research: [4 branching workflows for git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+          [feature branch](https://martinfowler.com/bliki/FeatureBranch.html)
+          [a successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+          [gitflow is poor branching model hack](https://hackernoon.com/gitflow-is-a-poor-branching-model-hack-d46567a156e7)
+          [gitflow considered harmful](https://www.endoflineblog.com/gitflow-considered-harmful) 
 Book: Continuous delivery |advanced|
 Tool: Git
 Tool: Jenkins
