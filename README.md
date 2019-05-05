@@ -172,7 +172,7 @@ Tool: Git
 Tool: Jenkins
 ```
 ### Enterprise integration patterns
-> Rationale : TODO 
+> Rationale : When writing enterprise applications you often have to integrate with other applications or services. You'll have to deal with asynchronym partial failures, incompatible data models, ... Enterprise Integration patterns offers a pattern language for this problem space.
 ```
 Book : [Enterprise Integration Patterns - Gregor Hohpe Bobby Woolf](https://www.enterpriseintegrationpatterns.com/) |advanced|
 Book : [Camel in action - Claus Ibsen Jonathan Anstey](https://www.manning.com/books/camel-in-action-second-edition)  |advanced|
@@ -180,28 +180,28 @@ Website : https://www.enterpriseintegrationpatterns.com/patterns/messaging/ |adv
 Website : https://spring.io/projects/spring-integration |?|
 ```
 ### Design patterns
-> Rationale : TODO 
+> Rationale : Design patterns are formalized good practices that the programmer can use to solve common problems when designing an application or system. The keyword here is "formalized", in order to have a common vocabulary between developers, you'll have to learn the correct use of a design pattern by learning it, not just repeating it from other source code, then you'll have not enough profound knowledge on how a design pattern is a generalized solution.
 ```
 Book: Head First Design Patterns, Design Patterns (Elements of Reusable Object-Oriented Software)
 Website: https://refactoring.guru/design-patterns/catalog |basic|
 ```
 ### Basic computer skills
-> Rationale : TODO 
+> Rationale : You don't have to become an expert on computer architecture, but having some basic knowledge on how a computer works can aid in become a better programmer.  
 - Knowledge on how a computer functions: cpu - ram - disk
 - Knowledge how programs work 
 ```
 Website: https://gist.github.com/jboner/2841832 |?|
 Presentatie: ???cegeka school???
 ```
-### Basic netwerking skills
-> Rationale : TODO 
+### Basic networking skills
+> Rationale : Todays computer programs communicate via networks to other programs. Whenever an application at runtime can't communicate with other programs, you'll have to be able to do some basic troubleshooting.
 - basic knowledge on layered networking (TCP/IP) |basic|
 - troubleshooting network problems |advanced|
 - tcp handshaking procedure |advanced|
 - application protocols : http, https, ftp |advanced|
 - using networking tools : ssh, telnet, ss, netstat, ping, nslookup, ... |advanced|
 ### Security
-> Rationale : TODO 
+> Rationale : Learn the basic concepts : identification, authentication, authorization. Learn the OWASP top ten vulnerabilities. Learn about social hacking. 
 - How do public/private keys work |advanced|
 - Working with certificates |advanced|
 - How does an ssl handshake work |advanced|
