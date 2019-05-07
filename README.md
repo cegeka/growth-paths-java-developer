@@ -201,7 +201,7 @@ Presentatie: ???cegeka school???
 - application protocols : http, https, ftp |advanced|
 - using networking tools : ssh, telnet, ss, netstat, ping, nslookup, ... |advanced|
 ### Security
-> Rationale : Learn the basic concepts : identification, authentication, authorization. Learn the OWASP top ten vulnerabilities. Learn about social hacking. 
+> Rationale : Learn the basic concepts : identification, authentication, authorization. Learn the OWASP top ten vulnerabilities. Learn about social hacking. Not every developer must become a security expert but every code that is written, can become a vulnerability to exploit. 
 - How do public/private keys work |advanced|
 - Working with certificates |advanced|
 - How does an ssl handshake work |advanced|
@@ -216,7 +216,7 @@ Exercise: https://gist.github.com/Soarez/9688998 |?|
 Book: Computer networks (Tanenbaum) |advanced|
 ```    
 ### Basic os skills
-> Rationale : TODO 
+> Rationale : Most servers use a unixbased OS. Tools like docker rely heavily on unixbased systems. Having some basic shell skills is a necessity. 
 - user mgt
     - useradd
     - usermod
@@ -237,18 +237,18 @@ Website: https://linuxjourney.com/ |?|
 man bash
 ```
 ### REST
-> Rationale : TODO 
+> Rationale : REST is a software architecture style for creating web services. REST provides interoperability between services. REST is built on top of http. Communication between front-end and back-end is usually done with REST. 
 ```
 Book:[Rest in Practice - Jim Webber]http://shop.oreilly.com/product/9780596805838.do](http://shop.oreilly.com/product/9780596805838.do) |basic|
 ```
 ### frontend javascript, angular
-> Rationale : TODO 
+> Rationale : As a full-stack developer, you have to know both front-end technologies as back-end technologies. Front-end is mainly focused on javascript/typescript and a framework. Most used front-end frameworks are angular, react and vue. 
 ```
 Website : [angular tutorial](https://angular.io/tutorial) |basic?|
 Course : Javascript - Basic + advanced (internal), Angular 6 Master Class (external Thoughtram) |basic + advanced|
 ```
 ### Basic database understanding
-> Rationale : TODO 
+> Rationale : Unless you're making a completely stateless application, some of your application state should be made persistent. This is most of the time done via a database, a structured persistent state of the application data. Learn the different types of databases, SQL is still used a lot these days, but more and more nosql-databases are used.  
 By which we mean:
 - SQL
 - NOSQL
@@ -259,19 +259,20 @@ By which we mean:
 Exercise: Create your own full stack application |advanced?|
 ```
 ### Spring
-> Rationale : TODO 
+> Rationale : When developing a complex application, it's faster, easier, safer to use a general framework that relieves you of having to build your own components for typical functionalities : dependency injection, data access, transaction management, ... Spring is such a framework, it's widely used, and you can cherry-pick the components of the framework you want to use.
 ```
 Exercise: Create your own application |basic|
 Book: Spring in action |basic|
 ```
-### Visualisatie
-> Rationale : TODO 
+### Visualisation
+> Rationale : Visualizing your design is just another form of communication. You don't need to become a masterpainter, what you should be able however is to be able to explain a software design on a whiteboard. It makes you more effective in communication.
 ```
 Course: Visualisation for Beginners (internal) |basic|
 Learn about UML |basic|
 ```
-### Design uitwerken voor een probleem op te lossen
-> Rationale : TODO 
+### Being able to work out a design for a specific problem
+> Rationale : You can learn a lot by reusing designs from other sources (design patterns are a specific example). But there comes a time when you can't rely on existing designs. Therefore it's a good idea to learn how to design solutions for specific problems.
+:q
 ```
 On the job
 ```
